@@ -1,6 +1,7 @@
 # 🌿 Sistema Adaptativo de Detección Temprana de Incendios Forestales – Loreto  
 ### *Taller 2 – Plataformas y Herramientas de Trabajo*  
 **Autor:** Miguel Anderson Inocente Caro
+
 **Email:** miguel.inocente.c@uni.pe
 
 **Universidad Nacional de Ingeniería**  
@@ -51,13 +52,7 @@ El sistema responde de forma **inteligente y contextualizada**:
    → LED y buzzer apagados.  
    → *“SIN ALERTAS”*
 
-> ✅ **¿Por qué es ADAPTATIVO?**  
-> No responde a un único umbral fijo. Evalúa múltiples variables (humo + temperatura + llama) y ajusta su respuesta según el contexto real de Loreto.  
->   
-> ✅ **¿Por qué es INTEGRADO?**  
-> Combina hardware (sensores, actuadores) y software (lógica de decisión) en una única unidad autónoma, sin dependencias externas.
-
----
+<img width="672" height="499" alt="image" src="https://github.com/user-attachments/assets/d8c91205-b4bd-47e9-98eb-7fcb39c03790" />
 
 ## 💻 Código Arduino (.ino)
 
@@ -75,13 +70,7 @@ El código está completamente comentado, organizado y optimizado:
 ## 🖥️ Simulación en Tinkercad
 
 ✅ **Funcional al 100%** — Verifica el funcionamiento en vivo:  
-🔗 [**Ver simulación en Tinkercad**](https://www.tinkercad.com/things/XXXXXXXXXXX) *(reemplaza con tu link)*
-
-> ⚠️ **Importante:**  
-> - El sensor de llama se simula con un **botón digital** (más estable que el IR en Tinkercad).  
-> - La temperatura se mide con **TMP36**, evitando errores de "ovf%" del DHT22.  
-> - Todos los sensores están correctamente calibrados con resistencias pull-down/pull-up.
+🔗 [**Ver simulación en Tinkercad**](https://www.tinkercad.com/things/khUQ1Vb5O4Q-sistema-de-deteccion-temprana-de-incendios-forestales-?sharecode=6OHVXL1VrUTqqwaQsSHTYyKzoAQEqFgKJxRLniMT_Xc)
 
 ---
 
-## 📁 Estructura del Repositorio
