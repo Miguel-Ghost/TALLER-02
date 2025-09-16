@@ -1,7 +1,7 @@
 # 🌿 Sistema Adaptativo de Detección Temprana de Incendios Forestales – Loreto  
 ### *Taller 2 – Plataformas y Herramientas de Trabajo*  
-**Autor:** Harold Obregón Zavaleta  
-**Email:** hobregonz@uni.pe  
+**Autor:** Miguel Anderson Inocente Caro
+**Email:** miguel.inocente.c@uni.pe
 **Universidad Nacional de Ingeniería**  
 
 ---
