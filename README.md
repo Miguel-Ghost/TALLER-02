@@ -28,6 +28,10 @@ El sistema se implementa mediante una **placa Arduino Uno** simulada en **Tinker
 | **LED Rojo (D6)** | Actuador | Alarma visual. |
 | **Buzzer (D12)** | Actuador | Alarma sonora. |
 
+
+<img width="1016" height="817" alt="image" src="https://github.com/user-attachments/assets/e67f46ea-9e79-450c-9e9b-d21f893742a3" />
+
+
 > ✅ **No se usan módulos GSM/LoRaWAN** — se simula la lógica de detección, como requiere el taller.  
 > ✅ **Sin librerías externas** — optimización para bajo consumo y compatibilidad total con Tinkercad.
 
