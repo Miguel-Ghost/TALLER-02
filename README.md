@@ -2,6 +2,7 @@
 ### *Taller 2 – Plataformas y Herramientas de Trabajo*  
 **Autor:** Miguel Anderson Inocente Caro
 **Email:** miguel.inocente.c@uni.pe
+
 **Universidad Nacional de Ingeniería**  
 
 ---
